@@ -49,9 +49,9 @@ Want to connect your project to the Internet? Start Here!
 
 - [#AdafruitIO tagged on Twitter, latest](https://twitter.com/search?f=tweets&vertical=default&q=%23adafruitio&src=tyah) - Twitter posts tagged AdafruitIO.
 - [AdafruitIO videos on YouTube, latest](https://www.youtube.com/results?sp=CAI%253D&search_query=adafruitio) - YouTube posts tagged AdafruitIO.
-- [#CircuitPython tagged photos & videos on Instagram](https://www.instagram.com/explore/tags/adafruitio/) - Posts on Instagram tagged AdafruitIO.
-- [Adafruit IO on Google+ Makers, hackers, artists & engineers](https://plus.google.com/u/0/communities/112845006884148391862/stream/470b18f9-8f51-45c6-8057-91ad72c35279) - Google Plus posts related to CircuitPython.
-- [CircuitPython on Reddit](https://www.reddit.com/search?q=adafruit%20io&t=year) - Reddit posts relating to AdafruitIO.
+- [#AdafruitIO tagged photos & videos on Instagram](https://www.instagram.com/explore/tags/adafruitio/) - Posts on Instagram tagged AdafruitIO.
+- [Adafruit IO on Google+ Makers, hackers, artists & engineers](https://plus.google.com/u/0/communities/112845006884148391862/stream/470b18f9-8f51-45c6-8057-91ad72c35279) - Google Plus posts related to AdafruitIO.
+- [AdafruitIO on Reddit](https://www.reddit.com/search?q=adafruit%20io&t=year) - Reddit posts relating to AdafruitIO.
 
 ## Events
 
@@ -60,7 +60,7 @@ Want to connect your project to the Internet? Start Here!
 
 ## Contributing
 
-Contributions and suggestions are always welcome! Please make pull requests to modify Awesome CircuitPython.
+Contributions and suggestions are always welcome! Please make pull requests to modify Awesome AdafruitIO.
 
 ## License & Trademarks
 
