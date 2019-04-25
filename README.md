@@ -22,17 +22,19 @@ TODO
 
 ## Community
 
-- [Adafruit IO Forums](https://forums.adafruit.com/viewforum.php?f=56) - The Adafruit discussion forum on Adafruit IO.
-- [Adafruit IO Discord channel #adafruit-io](https://discord.gg/EAeBY6x) - 24/7 chat and support for Adafruit IO.
+- [Adafruit IO Discord channel #help-with-adafruit-io](https://discord.gg/EAeBY6x) - 24/7 chat and support for Adafruit IO.
+- [Adafruit IO Forums](https://forums.adafruit.com/viewforum.php?f=56) - The Adafruit support forum on Adafruit IO.
 
 ## Code
 
-- [Adafruit IO REST API v2.0.0 Reference](https://io.adafruit.com/api/docs/) - The Adafruit IO HTTP API provides access to your Adafruit IO data from any programming language or hardware environment that can speak HTTP.
-- [Adafruit IO Arduino Library](https://github.com/adafruit/Adafruit_IO_Arduino) - Arduino library to access Adafruit IO from WiFi, cellular, and ethernet modules.
-- [Adafruit IO Python Library](https://github.com/adafruit/io-client-python) - A Python client for use with Adafruit IO. Compatible with Python 2.7+ and Python 3.3+.
+- [Adafruit IO HTTP API Documentation](https://io.adafruit.com/api/docs/) - Adafruit IO HTTP API provides access to your Adafruit IO data from any programming language or environment which can speak HTTP.
+- [Adafruit IO MQTT API Documentation](https://learn.adafruit.com/welcome-to-adafruit-io/mqtt-api-documentation) - Adafruit MQTT API provides access to your Adafruit IO data from any MQTT Client.
+- [Adafruit IO Arduino Library](https://github.com/adafruit/Adafruit_IO_Arduino) - An Arduino client for Adafruit IO.
+- [Adafruit IO CircuitPython Library](https://github.com/adafruit/Adafruit_CircuitPython_AdafruitIO) - A CircuitPython client for Adafruit IO.
+- [Adafruit IO Python Library](https://github.com/adafruit/Adafruit_IO_Python) - A Python client for Adafruit IO.
+- [Adafruit IO Ruby Library](https://github.com/adafruit/io-client-ruby) - A Ruby client for Adafruit IO.
 - [Adafruit IO Node.js Library](https://github.com/adafruit/adafruit-io-node) - A Node.js Adafruit IO client, local server, and TLS Tunnel.
-- [Adafruit IO Ruby Library](https://github.com/adafruit/io-client-ruby) - A Ruby client for use with Adafruit IO.
-- [Adafruit IO Go Library](https://github.com/adafruit/io-client-go) - A Go client library to talk to your Adafruit IO account.
+- [Adafruit IO Go Library](https://github.com/adafruit/io-client-go) - A Go client for Adafruit IO.
 
 ## Hardware
 
