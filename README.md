@@ -1,7 +1,12 @@
-# Awesome Adafruit IO
+<h1 align="center">
+  <img width="853" src="https://github.com/adafruit/awesome-adafruitio/blob/master/awesome_io.png" alt="Awesome AdafruitIO"><br>Awesome Adafruit IO
+</h1>
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Awesome Adafruit IO is a curated list of awesome Adafruit IO guides, videos, libraries, frameworks, software and resources. Adafruit IO is the easiest way to connect your project to the internet. You can easily connect your project to Adafruit IO with your device-of-choice by using one of our client libraries (We support Python, Arduino, Node.js, Ruby, and Go) and control or monitor it from the internet. Data stored with Adafruit IO is yours to manage and control. You can download it all anytime and we will never sell or give it away to another company.
+> A curated list of awesome Adafruit IO guides, hardware, guides, videos, libraries, frameworks, and resources.
+
+Adafruit IO is the easiest way to connect your project to the internet. You can easily connect your project to Adafruit IO with your device-of-choice by using your programming language of choice (we have _lots_ of libraries) and control or monitor over the internet. Data stored with Adafruit IO is _yours_ to manage and control. You can download it all anytime and we will never sell or give it away to another company. It's great for getting started with the internet of things!
 
 Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
@@ -10,11 +15,10 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 TODO
 
 ## Guides
-Want to connect your project to the Internet? Start Here!
 
-- [Welcome to Adafruit IO!](https://learn.adafruit.com/welcome-to-adafruit-io) - An overview of Adafruit IO's service to serve as a quick-start.
-- [Adafruit IO Basics](https://learn.adafruit.com/series/adafruit-io-basics) - Nine guides covering the core functions of Adafruit IO. They range from getting you started with Adafruit IO's dashboards, to controlling a lamp remotely.
-- [learn.adafruit.com Adafruit IO](https://learn.adafruit.com/category/adafruit-io) - All the Adafruit Learning Guides about Adafruit IO.
+- [Welcome to Adafruit IO!](https://learn.adafruit.com/welcome-to-adafruit-io) - An overview of Adafruit IO  and the service.
+- [Adafruit IO Basics](https://learn.adafruit.com/series/adafruit-io-basics) - Learn the basics of Adafruit IO and interfacing the service with your hardware.
+- [learn.adafruit.com Adafruit IO](https://learn.adafruit.com/category/adafruit-io) - Adafruit Learning System Guides on Adafruit IO.
 
 ## Community
 
