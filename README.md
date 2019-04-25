@@ -38,7 +38,7 @@ TODO
 
 ## Hardware
 
-Adafruit IO is compatble with any hardware which can communicate over HTTP.
+Adafruit IO is compatible with any hardware which can communicate over HTTP.
 
 - [Adafruit-Produced Boards](https://www.adafruit.com/iot) - Where to buy Adafruit IO compatible boards produced by Adafruit
 
