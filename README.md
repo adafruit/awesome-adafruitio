@@ -38,26 +38,28 @@ TODO
 
 ## Hardware
 
-- [Adafruit IO Boards - Adafruit Feather Huzzah (ESP8266, ESP32), Adafruit Feather M0 (WiFi, Bluefruit LE), Particle Photon, Adafruit Feather nRF52 (Pro, Bluefruit LE), Adafruit HUZZAH Breakout (ESP8266), Adafruit Feather 32u4 (BlueFruit LE), Adafruit FONA (808, 3G, Feather)](https://www.adafruit.com/iot) - Where to buy Adafruit IO compatible boards.
+Adafruit IO is compatble with any hardware which can communicate over HTTP.
+
+- [Adafruit-Produced Boards](https://www.adafruit.com/iot) - Where to buy Adafruit IO compatible boards produced by Adafruit
 
 
-## TODO: Newsletter
+## Newsletter
 
-- [Adafruit Daily, IoT](https://www.adafruitdaily.com/) - A weekly newsletter on the Internet-of-Things and Adafruit IO, a spam-free list.
-- [Contribute to newsletter](https://github.com/adafruit/TODO) - Guidelines on contributing to the newsletter.
+- [Adafruit IoT Monthly Newsletter](https://www.adafruitdaily.com/) - A weekly newsletter on the Internet-of-Things and Adafruit IO, a spam-free list.
+- [Archives of all newsletters](https://blog.adafruit.com/tag/iot-monthly/) - List of every newsletter published.
 
 ## News
 
-- [Adafruit IO on Hackaday](https://io.adafruit.com/blog/) - Adafruit IO News and Release Notes, straight from the source.
 - [Adafruit IO on Hackaday](https://hackaday.com/tag/adafruit-io/) - Hackaday posts related to Adafruit IO.
 
 ## Social
 
+- [Adafruit IO Development Blog](https://io.adafruit.com/blog/) - Adafruit IO News and Release Notes, straight from the source.
 - [#AdafruitIO tagged on Twitter, latest](https://twitter.com/search?f=tweets&vertical=default&q=%23adafruitio&src=tyah) - Twitter posts tagged AdafruitIO.
 - [AdafruitIO videos on YouTube, latest](https://www.youtube.com/results?sp=CAI%253D&search_query=adafruitio) - YouTube posts tagged AdafruitIO.
 - [#AdafruitIO tagged photos & videos on Instagram](https://www.instagram.com/explore/tags/adafruitio/) - Posts on Instagram tagged AdafruitIO.
 - [Adafruit IO on Google+ Makers, hackers, artists & engineers](https://plus.google.com/u/0/communities/112845006884148391862/stream/470b18f9-8f51-45c6-8057-91ad72c35279) - Google Plus posts related to AdafruitIO.
-- [AdafruitIO on Reddit](https://www.reddit.com/search?q=adafruit%20io&t=year) - Reddit posts relating to AdafruitIO.
+- [Adafruit IO on Reddit](https://www.reddit.com/search?q=adafruit%20io&t=year) - Reddit posts relating to AdafruitIO.
 
 ## Events
 
