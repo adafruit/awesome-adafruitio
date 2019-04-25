@@ -50,7 +50,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 Adafruit IO is compatible with any hardware which can communicate over HTTP.
 
-- [Adafruit-Produced Boards](https://www.adafruit.com/iot) - Where to buy Adafruit IO compatible boards produced by Adafruit
+- [Adafruit-Produced Boards](https://www.adafruit.com/iot) - Where to buy Adafruit IO compatible boards produced by Adafruit.
 
 
 ## Newsletter
@@ -69,9 +69,9 @@ Adafruit IO is compatible with any hardware which can communicate over HTTP.
 - [#AdafruitIO tagged on Twitter, latest](https://twitter.com/search?f=tweets&vertical=default&q=%23AdafruitIO&src=tyah) - Twitter posts tagged Adafruit IO.
 - [Adafruit IO Twitter](https://twitter.com/adafruitio) - Twitter account aggregator for Adafruit IO news and more.
 - [AdafruitIO videos on YouTube, latest](https://www.youtube.com/results?sp=CAI%253D&search_query=adafruitio) - YouTube posts tagged AdafruitIO.
-- [#AdafruitIO tagged photos & videos on Instagram](https://www.instagram.com/explore/tags/adafruitio) - Posts on Instagram tagged AdafruitIO.
-- [Adafruit IO on Google+ Makers, hackers, artists & engineers](https://plus.google.com/u/0/communities/112845006884148391862/stream/470b18f9-8f51-45c6-8057-91ad72c35279) - Google Plus posts related to AdafruitIO.
-- [Adafruit IO tagged on Reddit](https://www.reddit.com/search?q=adafruit%20io&t=year) - Reddit posts relating to AdafruitIO.
+- [#AdafruitIO tagged photos & videos on Instagram](https://www.instagram.com/explore/tags/adafruitio) - Posts on Instagram tagged Adafruit IO.
+- [Adafruit IO on Google+ Makers, hackers, artists & engineers](https://plus.google.com/u/0/communities/112845006884148391862/stream/470b18f9-8f51-45c6-8057-91ad72c35279) - Google Plus posts related to Adafruit IO.
+- [Adafruit IO tagged on Reddit](https://www.reddit.com/search?q=adafruit%20io&t=year) - Reddit posts relating to Adafruit IO.
 - [Adafruit IO community on Reddit](https://www.reddit.com/r/adafruitio) - Dedicated home of Adafruit IO on reddit /r/adafruitio.
 - [Adafruit IO on Instructables](https://www.instructables.com/howto/circuitpython) - How-tos, guides, and more, using Adafruit IO on Autodesk's Instructables.
 
