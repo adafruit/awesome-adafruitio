@@ -12,7 +12,6 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 ## Contents
 
-- [Contents](#contents)
 - [Guides](#guides)
 - [Community](#community)
 - [Code](#code)
@@ -21,8 +20,6 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 - [News](#news)
 - [Social](#social)
 - [Events](#events)
-- [Contributing](#contributing)
-- [License & Trademarks](#license--trademarks)
 
 ## Guides
 
@@ -79,13 +76,13 @@ Adafruit IO is compatible with any hardware which can communicate over HTTP.
 ## Events
 
 - [Weekly Adafruit Show-and-tell, Wednesday 7:30pm ET on Google+ Hangouts](https://plus.google.com/+adafruit) - The weekly Adafruit Show-and-tell program often has Adafruit IO-related projects on display.
-- [ASK AN ENGINEER, Wednesday 8pm ET on YouTube LIVE](https://www.youtube.com/adafruit/live) - The longest running Youtube live show about electronics, information often on during an "Adafruit IO Update" segment. New compatible hardware during "New New New" segment.
+- [ASK AN ENGINEER, Wednesday 8pm ET on YouTube LIVE](https://www.youtube.com/adafruit/live) - The longest running YouTube live show about electronics, information often on during an "Adafruit IO Update" segment. New compatible hardware during "New New New" segment.
 
-## Contributing
+## Contribute
 
 Contributions and suggestions are always welcome! Please make pull requests to modify Awesome AdafruitIO.
 
-## License & Trademarks
+## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
