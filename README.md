@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="http://io.adafruit.com">
-  <img width="853" src="https://github.com/adafruit/awesome-adafruitio/blob/master/awesome_io.png" alt="Awesome AdafruitIO"></a><br>Awesome Adafruit IO
+  <img width="600" src="https://github.com/adafruit/awesome-adafruitio/blob/master/awesome_io.png" alt="Awesome AdafruitIO"></a><br>Awesome Adafruit IO
 </h1>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
