@@ -59,16 +59,16 @@ Adafruit IO is compatible with _any_ hardware which can communicate over HTTP or
 
 ## News
 
-- [Adafruit IO on Hackaday](https://hackaday.com/tag/adafruit-io) - Hackaday posts related to Adafruit IO.
+- [Adafruit IO on Hackaday](https://hackaday.com/tag/adafruit-io/) - Hackaday posts related to Adafruit IO.
 - [Adafruit IO on Hackster.io](https://blog.hackster.io/search?q=adafruit_io) - Hackster posts related to Adafruit IO.
 
 ## Social
 
-- [Adafruit IO Development Blog](https://io.adafruit.com/blog) - Adafruit IO News and Release Notes, straight from the source.
+- [Adafruit IO Development Blog](https://io.adafruit.com/blog/) - Adafruit IO News and Release Notes, straight from the source.
 - [#AdafruitIO tagged on Twitter, latest](https://twitter.com/search?f=tweets&vertical=default&q=%23AdafruitIO&src=tyah) - Twitter posts tagged Adafruit IO.
 - [Adafruit IO Twitter](https://twitter.com/adafruitio) - Twitter account aggregator for Adafruit IO news and more.
 - [AdafruitIO videos on YouTube, latest](https://www.youtube.com/results?sp=CAI%253D&search_query=adafruitio) - YouTube posts tagged AdafruitIO.
-- [#AdafruitIO tagged photos & videos on Instagram](https://www.instagram.com/explore/tags/adafruitio) - Posts on Instagram tagged Adafruit IO.
+- [#AdafruitIO tagged photos & videos on Instagram](https://www.instagram.com/explore/tags/adafruitio/) - Posts on Instagram tagged Adafruit IO.
 - [Adafruit IO on Google+ Makers, hackers, artists & engineers](https://plus.google.com/u/0/communities/112845006884148391862/stream/470b18f9-8f51-45c6-8057-91ad72c35279) - Google Plus posts related to Adafruit IO.
 - [Adafruit IO community on Reddit](https://www.reddit.com/r/adafruitio) - Dedicated home of Adafruit IO on reddit /r/adafruitio.
 - [Adafruit IO tagged on Reddit](https://www.reddit.com/search?q=adafruit%20io&t=year) - Reddit posts relating to Adafruit IO.
