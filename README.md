@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="http://io.adafruit.com">
+  <a href="https://io.adafruit.com">
   <img width="600" src="https://github.com/adafruit/awesome-adafruitio/blob/master/awesome_io.png" alt="Awesome AdafruitIO"></a><br>Awesome Adafruit IO
 </h1>
 
@@ -7,7 +7,7 @@
 
 > A curated list of awesome Adafruit IO guides, hardware, guides, videos, libraries, frameworks, and resources.
 
-[Adafruit IO is the easiest way to connect your project to the internet](http://io.adafruit.com). You can easily connect your project to Adafruit IO with your device-of-choice by using your programming language of choice (we have _lots_ of libraries) and control or monitor over the internet. Data stored with Adafruit IO is _yours_ to manage and control. You can download it all anytime and we will never sell or give it away to another company. It's great for getting started with the internet of things!
+[Adafruit IO is the easiest way to connect your project to the internet](https://io.adafruit.com). You can easily connect your project to Adafruit IO with your device-of-choice by using your programming language of choice (we have _lots_ of libraries) and control or monitor over the internet. Data stored with Adafruit IO is _yours_ to manage and control. You can download it all anytime and we will never sell or give it away to another company. It's great for getting started with the internet of things!
 
 
 ## Contents
@@ -86,6 +86,6 @@ Contributions and suggestions are always welcome! Please make pull requests to m
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the authors have waived all copyright and related or neighbouring rights to this work.
